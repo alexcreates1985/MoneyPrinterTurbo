@@ -4294,6 +4294,12 @@ def _render_settings_dialog():
                 upload_post_auto_upload = st.checkbox(
                     tr("Enable Auto-Publish"),
                     value=is_auto,
+                    disabled=os.environ.get("MPT_REQUIRE_PUBLISH_APPROVAL") == "1",
+                    help=(
+                        "Codespaces requires per-video approval in Travel Factory."
+                        if os.environ.get("MPT_REQUIRE_PUBLISH_APPROVAL") == "1"
+                        else None
+                    ),
                     key="upload_post_auto_upload_checkbox",
                     on_change=_save_settings_change,
                     args=(
@@ -9454,6 +9460,11 @@ def _render_generation_controls(
 def _render_application():
     """按固定顺序渲染顶部栏、弹窗、生成表单和任务结果。"""
     _render_top_bar()
+    st.page_link(
+        "pages/1_Travel_Factory.py",
+        label="Travel Factory: sourced comparisons and iPhone workflow",
+        icon="🌏",
+    )
 
     if st.session_state.get("settings_dialog_open", False):
         _render_settings_dialog()

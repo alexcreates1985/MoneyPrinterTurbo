@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "country": "Russia",
+  "city": "Moscow",
+  "currency": "RUB",
+  "budget_sgd": "50",
+  "retail_quote_required": true,
+  "quote": {
+    "kind": "singapore_retail",
+    "local_per_sgd": null,
+    "fee_sgd": "0",
+    "outlet": "",
+    "assumptions": "",
+    "source": null
+  },
+  "items": [
+    {
+      "label": "Everyday item",
+      "unit": "one item",
+      "singapore": {
+        "amount": null,
+        "kind": "observed",
+        "source": null
+      },
+      "destination": {
+        "amount": null,
+        "kind": "observed",
+        "source": null
+      },
+      "comparability": ""
+    }
+  ]
+}

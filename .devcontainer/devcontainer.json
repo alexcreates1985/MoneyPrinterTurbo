@@ -1,0 +1,27 @@
+{
+  "name": "MoneyPrinterTurbo iPhone Studio",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "remoteUser": "vscode",
+  "forwardPorts": [
+    8501
+  ],
+  "portsAttributes": {
+    "8501": {
+      "label": "MoneyPrinterTurbo (keep Private)",
+      "onAutoForward": "notify",
+      "protocol": "http"
+    }
+  },
+  "containerEnv": {
+    "MPT_REQUIRE_PUBLISH_APPROVAL": "1"
+  },
+  "postCreateCommand": "bash .devcontainer/install.sh",
+  "postStartCommand": "bash .devcontainer/start.sh",
+  "shutdownAction": "stopContainer",
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  }
+}

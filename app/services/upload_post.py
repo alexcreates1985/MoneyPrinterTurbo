@@ -156,7 +156,10 @@ class UploadPostService:
 
     @property
     def auto_upload(self) -> bool:
-        return config.app.get("upload_post_auto_upload", False)
+        return (
+            os.environ.get("MPT_REQUIRE_PUBLISH_APPROVAL") != "1"
+            and config.app.get("upload_post_auto_upload", False)
+        )
 
     @property
     def youtube_privacy_status(self) -> str:

@@ -501,3 +501,26 @@ div[class*="st-key-task_row_"] button[kind="secondary"] p {
         min-width: 1.75rem !important;
     }
 }
+
+/* Safari touch targets and 16px inputs avoid focus zoom on iPhone. */
+@media (max-width: 640px) {
+    [data-testid="stButton"] button,
+    [data-testid="stDownloadButton"] button,
+    [data-testid="stFormSubmitButton"] button,
+    [data-testid="stFileUploader"] button {
+        min-height: 44px;
+    }
+    input, textarea, [data-baseweb="select"] {
+        font-size: 16px !important;
+    }
+    [data-testid="stPageLink"] a {
+        min-height: 44px;
+        white-space: normal;
+    }
+}
+@media (max-width: 640px) {
+    [data-testid="stPageLink"] p {
+        white-space: normal !important;
+        overflow-wrap: anywhere;
+    }
+}
