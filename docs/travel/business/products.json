@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bangkok comparison sheet",
+    "price_sgd": 0,
+    "status": "In progress",
+    "gate": "Qualifying FX and full basket missing"
+  },
+  {
+    "name": "Bangkok three-day guide",
+    "price_sgd": 19,
+    "status": "Planned but not started",
+    "gate": "Research, route checks, full guide, legal and checkout approval"
+  },
+  {
+    "name": "Three-city bundle",
+    "price_sgd": 39,
+    "status": "Planned but not started",
+    "gate": "Three complete guides and demand evidence"
+  },
+  {
+    "name": "Membership",
+    "price_sgd": 9,
+    "status": "Planned but not started",
+    "gate": "Recurring value and demand evidence"
+  },
+  {
+    "name": "B2B pilot package",
+    "price_sgd": 450,
+    "status": "Completed but awaiting approval",
+    "gate": "One 40–55s original researched reel; one revision; organic use. Stock, paid ads and extensive research quoted separately. Proposed offer only; demand untested."
+  }
+]

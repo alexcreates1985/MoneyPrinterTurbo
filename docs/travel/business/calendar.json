@@ -1,0 +1,743 @@
+[
+  {
+    "id": "TD-001",
+    "publish_at": "2026-11-25T19:30:00+08:00",
+    "week": 1,
+    "pillar": "SGD50",
+    "title": "Can S$50 buy more in Singapore or Bangkok?",
+    "destination": "Singapore + Bangkok",
+    "cta": "Free S$50 comparison PDF",
+    "research_status": "Four price observations; qualifying FX and food basket missing",
+    "video_status": "In progress",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-002",
+    "publish_at": "2026-11-27T19:30:00+08:00",
+    "week": 1,
+    "pillar": "SGD50",
+    "title": "Singapore vs Kuala Lumpur: same S$50, different day",
+    "destination": "Singapore + Kuala Lumpur",
+    "cta": "Get free comparison",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-003",
+    "publish_at": "2026-11-29T12:30:00+08:00",
+    "week": 1,
+    "pillar": "FX Reality",
+    "title": "Google rates vs Singapore money-changer rates",
+    "destination": "SGD → THB / MYR",
+    "cta": "Get rate-check checklist",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-004",
+    "publish_at": "2026-12-02T19:30:00+08:00",
+    "week": 2,
+    "pillar": "Italy POV",
+    "title": "How far does S$50 go in Rome?",
+    "destination": "Singapore + Rome",
+    "cta": "Save Rome budget guide",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-005",
+    "publish_at": "2026-12-04T19:30:00+08:00",
+    "week": 2,
+    "pillar": "Italy POV",
+    "title": "Coffee and lunch: Singapore vs Florence",
+    "destination": "Singapore + Florence",
+    "cta": "Free Italy costs",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-006",
+    "publish_at": "2026-12-06T12:30:00+08:00",
+    "week": 2,
+    "pillar": "Price Check",
+    "title": "What do Italian train tickets really cost?",
+    "destination": "Italy",
+    "cta": "Subscribe for guide",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-007",
+    "publish_at": "2026-12-09T19:30:00+08:00",
+    "week": 3,
+    "pillar": "SGD50",
+    "title": "S$50: Singapore vs Tokyo",
+    "destination": "Singapore + Tokyo",
+    "cta": "Tokyo budget waitlist",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-008",
+    "publish_at": "2026-12-11T19:30:00+08:00",
+    "week": 3,
+    "pillar": "Budget Trap",
+    "title": "Don't price Tokyo by hotel costs alone",
+    "destination": "Tokyo",
+    "cta": "Tokyo guide waitlist",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-009",
+    "publish_at": "2026-12-13T12:30:00+08:00",
+    "week": 3,
+    "pillar": "SGD50",
+    "title": "S$50: Singapore vs Seoul",
+    "destination": "Singapore + Seoul",
+    "cta": "Free comparison PDF",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-010",
+    "publish_at": "2026-12-16T19:30:00+08:00",
+    "week": 4,
+    "pillar": "SGD50",
+    "title": "S$50: Singapore vs Bali",
+    "destination": "Singapore + Bali",
+    "cta": "Bali budget pack waitlist",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-011",
+    "publish_at": "2026-12-18T19:30:00+08:00",
+    "week": 4,
+    "pillar": "FX Reality",
+    "title": "IDR exchange spread: why your S$50 changes",
+    "destination": "SGD → IDR",
+    "cta": "Free rate-check sheet",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-012",
+    "publish_at": "2026-12-20T12:30:00+08:00",
+    "week": 4,
+    "pillar": "SGD50",
+    "title": "S$50 city league table: first 4 verified cities",
+    "destination": "4 audited cities",
+    "cta": "Download comparison",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-013",
+    "publish_at": "2026-12-23T19:30:00+08:00",
+    "week": 5,
+    "pillar": "SGD50",
+    "title": "Bangkok street-food challenge: real receipts",
+    "destination": "Bangkok",
+    "cta": "Bangkok mini guide",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-014",
+    "publish_at": "2026-12-25T19:30:00+08:00",
+    "week": 5,
+    "pillar": "Route Guide",
+    "title": "A S$50 Bangkok day — step-by-step route",
+    "destination": "Bangkok",
+    "cta": "Buy Bangkok guide",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-015",
+    "publish_at": "2026-12-27T12:30:00+08:00",
+    "week": 5,
+    "pillar": "Price Check",
+    "title": "Transport costs: Bangkok vs Singapore",
+    "destination": "Bangkok + Singapore",
+    "cta": "Free transit sheet",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-016",
+    "publish_at": "2026-12-30T19:30:00+08:00",
+    "week": 6,
+    "pillar": "SGD50",
+    "title": "Kuala Lumpur food basket vs Singapore",
+    "destination": "Singapore + Kuala Lumpur",
+    "cta": "KL day-guide",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-017",
+    "publish_at": "2027-01-01T19:30:00+08:00",
+    "week": 6,
+    "pillar": "Route Guide",
+    "title": "The 1-day KL route under a defined budget",
+    "destination": "Kuala Lumpur",
+    "cta": "Buy KL guide",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-018",
+    "publish_at": "2027-01-03T12:30:00+08:00",
+    "week": 6,
+    "pillar": "FX Reality",
+    "title": "Singapore cash exchange counter: what to check",
+    "destination": "SGD → MYR",
+    "cta": "Free checklist",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-019",
+    "publish_at": "2027-01-06T19:30:00+08:00",
+    "week": 7,
+    "pillar": "SGD50",
+    "title": "S$50 in Osaka vs Singapore",
+    "destination": "Singapore + Osaka",
+    "cta": "Japan guide waitlist",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-020",
+    "publish_at": "2027-01-08T19:30:00+08:00",
+    "week": 7,
+    "pillar": "Price Check",
+    "title": "Japan train pass: compare real journeys",
+    "destination": "Japan",
+    "cta": "Guide interest form",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-021",
+    "publish_at": "2027-01-10T12:30:00+08:00",
+    "week": 7,
+    "pillar": "Route Guide",
+    "title": "One Osaka day with a planned food budget",
+    "destination": "Osaka",
+    "cta": "Buy Osaka guide",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-022",
+    "publish_at": "2027-01-13T19:30:00+08:00",
+    "week": 8,
+    "pillar": "SGD50",
+    "title": "S$50 Singapore vs Taipei",
+    "destination": "Singapore + Taipei",
+    "cta": "Taipei waitlist",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-023",
+    "publish_at": "2027-01-15T19:30:00+08:00",
+    "week": 8,
+    "pillar": "Price Check",
+    "title": "Taipei night-market food budget",
+    "destination": "Taipei",
+    "cta": "Free Taipei sheet",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-024",
+    "publish_at": "2027-01-17T12:30:00+08:00",
+    "week": 8,
+    "pillar": "FX Reality",
+    "title": "What a real Singapore cash THB/JPY quote means",
+    "destination": "SGD → THB / JPY",
+    "cta": "Rate-check resource",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-025",
+    "publish_at": "2027-01-20T19:30:00+08:00",
+    "week": 9,
+    "pillar": "SGD50",
+    "title": "Singapore vs Hanoi: same S$50 experiment",
+    "destination": "Singapore + Hanoi",
+    "cta": "Vietnam guide waitlist",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-026",
+    "publish_at": "2027-01-22T19:30:00+08:00",
+    "week": 9,
+    "pillar": "Price Check",
+    "title": "Street food is not one universal price",
+    "destination": "Vietnam",
+    "cta": "Get price sources",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-027",
+    "publish_at": "2027-01-24T12:30:00+08:00",
+    "week": 9,
+    "pillar": "Route Guide",
+    "title": "Build a 1-day Hanoi budget route",
+    "destination": "Hanoi",
+    "cta": "Vietnam mini guide",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-028",
+    "publish_at": "2027-01-27T19:30:00+08:00",
+    "week": 10,
+    "pillar": "SGD50",
+    "title": "Singapore vs Paris: S$50 in two cities",
+    "destination": "Singapore + Paris",
+    "cta": "Europe comparison PDF",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-029",
+    "publish_at": "2027-01-29T19:30:00+08:00",
+    "week": 10,
+    "pillar": "Italy POV",
+    "title": "Rome vs Florence: which daily budget wins?",
+    "destination": "Rome + Florence",
+    "cta": "Italy bundle",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-030",
+    "publish_at": "2027-01-31T12:30:00+08:00",
+    "week": 10,
+    "pillar": "FX Reality",
+    "title": "Why one exchange rate isn't your actual cash rate",
+    "destination": "SGD → EUR",
+    "cta": "Free checklist",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-031",
+    "publish_at": "2027-02-03T19:30:00+08:00",
+    "week": 11,
+    "pillar": "SGD50",
+    "title": "Singapore vs Sydney: S$50 buying power",
+    "destination": "Singapore + Sydney",
+    "cta": "Australia waitlist",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-032",
+    "publish_at": "2027-02-05T19:30:00+08:00",
+    "week": 11,
+    "pillar": "Price Check",
+    "title": "Can S$50 cover lunch + transit in Sydney?",
+    "destination": "Sydney",
+    "cta": "Free cost sheet",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-033",
+    "publish_at": "2027-02-07T12:30:00+08:00",
+    "week": 11,
+    "pillar": "SGD50",
+    "title": "Singapore vs Perth: matched basket comparison",
+    "destination": "Singapore + Perth",
+    "cta": "Australia guide",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-034",
+    "publish_at": "2027-02-10T19:30:00+08:00",
+    "week": 12,
+    "pillar": "SGD50",
+    "title": "Does S$50 stretch further in Cape Town?",
+    "destination": "Singapore + Cape Town",
+    "cta": "Africa waitlist",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-035",
+    "publish_at": "2027-02-12T19:30:00+08:00",
+    "week": 12,
+    "pillar": "Conditional",
+    "title": "S$50 in Moscow — only if verifiable cash rates",
+    "destination": "Singapore + Moscow",
+    "cta": "Get city vote",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-036",
+    "publish_at": "2027-02-14T12:30:00+08:00",
+    "week": 12,
+    "pillar": "Data Diary",
+    "title": "Why prices can differ across neighbourhoods",
+    "destination": "Multi-city",
+    "cta": "Download methodology",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-037",
+    "publish_at": "2027-02-17T19:30:00+08:00",
+    "week": 13,
+    "pillar": "Roundup",
+    "title": "5 cities where S$50 went furthest in our basket",
+    "destination": "Top verified cities",
+    "cta": "Budget bundle",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-038",
+    "publish_at": "2027-02-19T19:30:00+08:00",
+    "week": 13,
+    "pillar": "Inflation",
+    "title": "Re-check launch prices: what changed in 90 days?",
+    "destination": "Previously audited cities",
+    "cta": "Newsletter",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  },
+  {
+    "id": "TD-039",
+    "publish_at": "2027-02-21T12:30:00+08:00",
+    "week": 13,
+    "pillar": "Community",
+    "title": "Vote the next S$50 city; show the research system",
+    "destination": "Global",
+    "cta": "Waitlist + guides",
+    "research_status": "Research required",
+    "video_status": "Planned but not started",
+    "approval_status": "Not requested",
+    "published": false,
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube"
+    ],
+    "actual_views": null
+  }
+]

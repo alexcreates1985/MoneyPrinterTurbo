@@ -1,0 +1,23 @@
+{
+  "as_of": "2026-11-08",
+  "launch": "2026-11-25",
+  "actuals": {
+    "views": null,
+    "clicks": null,
+    "recorded_bookings": null,
+    "completed_bookings": null,
+    "earned_commissions": null,
+    "paid_commissions": null,
+    "guide_sales": null
+  },
+  "actuals_note": "Accounts not connected. Null means unavailable, never zero.",
+  "blockers": [
+    "No qualifying S$50 retail FX quote",
+    "Food and transport comparables not verified",
+    "Social analytics, affiliate accounts and checkout not connected",
+    "ACRA decision before trading under brand name"
+  ],
+  "automation": "Existing Monday 08:00 SGT Travel Content Factory updated. No successful run observed; daily/monthly tasks not yet configured.",
+  "deployment": "Existing Codespace on development branch with uncommitted changes; Streamlit port 8501 verified Private. New files not yet installed in Codespace.",
+  "production": "51.216-second review rendered using Edge TTS. Full basket pilot remains blocked. Human listening review pending."
+}
