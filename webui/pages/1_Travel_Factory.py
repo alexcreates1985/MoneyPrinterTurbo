@@ -28,6 +28,9 @@ st.caption(
     "Research → review → render → download → approve. Publishing is always a separate action."
 )
 st.page_link("Main.py", label="Full studio and provider settings")
+from webui.travel_animation_panel import show as show_animation_panel
+with st.expander("Animated reel studio", expanded=True):
+    show_animation_panel()
 STORE = Path(utils.storage_dir("travel", create=True))
 DRAFT = STORE / "research.json"
 
